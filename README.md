@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm  a student from DBU (Debre Berhan University).<br><br>- 🔭 I’m working as a student developer focused on building creative and efficient projects<br>- 📚 I'm currently learning web development, Python programming, and computer networks. <br>- ⚡ In my free time , I explore new tech tools, watch tutorials, and collaborate on open-source projects</p>
+<p align="left">I'm  a student from DBU (Debre Berhan University).<br><br>- 🔭 I’m working as a student developer focused on building creative and efficient projects<br>- 📚 I'm currently learning web development, Python programming, and computer networks. <br>- ⚡ In my free time , I explore new tech tools, watch tutorials, and collaborate on open-source projects .<br>-🌱 I love improving my skills and helping others learn</p>
 
 ###
 
