@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is  BEKELE.S ... and I'm a CS STUDENT..., from DBU....</p>
+<p align="left">My name is  ethiogech.S ... and I'm a CS STUDENT..., from DBU....</p>
 
 ###
 
